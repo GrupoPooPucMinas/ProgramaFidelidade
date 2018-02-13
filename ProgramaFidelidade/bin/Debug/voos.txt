@@ -1,0 +1,90 @@
+PUC1001;Belo Horizonte;Brasília
+PUC1002;Belo Horizonte;Campo Grande
+PUC1003;Belo Horizonte;Fernando de Noronha
+PUC1004;Belo Horizonte;Florianópolis
+PUC1005;Belo Horizonte;Fortaleza
+PUC1006;Belo Horizonte;Porto Alegre
+PUC1007;Belo Horizonte;Recife
+PUC1008;Belo Horizonte;Rio de Janeiro
+PUC1009;Belo Horizonte;São Paulo
+PUC1010;Brasília;Belo Horizonte
+PUC1011;Brasília;Campo Grande
+PUC1012;Brasília;Fernando de Noronha
+PUC1013;Brasília;Florianópolis
+PUC1014;Brasília;Fortaleza
+PUC1015;Brasília;Porto Alegre
+PUC1016;Brasília;Recife
+PUC1017;Brasília;Rio de Janeiro
+PUC1018;Brasília;São Paulo
+PUC1019;Campo Grande;Belo Horizonte
+PUC1020;Campo Grande;Brasília
+PUC1021;Campo Grande;Fernando de Noronha
+PUC1022;Campo Grande;Florianópolis
+PUC1023;Campo Grande;Fortaleza
+PUC1024;Campo Grande;Porto Alegre
+PUC1025;Campo Grande;Recife
+PUC1026;Campo Grande;Rio de Janeiro
+PUC1027;Campo Grande;São Paulo
+PUC1028;Fernando de Noronha;Belo Horizonte
+PUC1029;Fernando de Noronha;Brasília
+PUC1030;Fernando de Noronha;Campo Grande
+PUC1031;Fernando de Noronha;Florianópolis
+PUC1032;Fernando de Noronha;Fortaleza
+PUC1033;Fernando de Noronha;Porto Alegre
+PUC1034;Fernando de Noronha;Recife
+PUC1035;Fernando de Noronha;Rio de Janeiro
+PUC1036;Fernando de Noronha;São Paulo
+PUC1037;Florianópolis;Belo Horizonte
+PUC1038;Florianópolis;Brasília
+PUC1039;Florianópolis;Campo Grande
+PUC1040;Florianópolis;Fernando de Noronha
+PUC1041;Florianópolis;Fortaleza
+PUC1042;Florianópolis;Porto Alegre
+PUC1043;Florianópolis;Recife
+PUC1044;Florianópolis;Rio de Janeiro
+PUC1045;Florianópolis;São Paulo
+PUC1046;Fortaleza;Belo Horizonte
+PUC1047;Fortaleza;Brasília
+PUC1048;Fortaleza;Campo Grande
+PUC1049;Fortaleza;Fernando de Noronha
+PUC1050;Fortaleza;Florianópolis
+PUC1051;Fortaleza;Porto Alegre
+PUC1052;Fortaleza;Recife
+PUC1053;Fortaleza;Rio de Janeiro
+PUC1054;Fortaleza;São Paulo
+PUC1055;Porto Alegre;Belo Horizonte
+PUC1056;Porto Alegre;Brasília
+PUC1057;Porto Alegre;Campo Grande
+PUC1058;Porto Alegre;Fernando de Noronha
+PUC1059;Porto Alegre;Florianópolis
+PUC1060;Porto Alegre;Fortaleza
+PUC1061;Porto Alegre;Recife
+PUC1062;Porto Alegre;Rio de Janeiro
+PUC1063;Porto Alegre;São Paulo
+PUC1064;Recife;Belo Horizonte
+PUC1065;Recife;Brasília
+PUC1066;Recife;Campo Grande
+PUC1067;Recife;Fernando de Noronha
+PUC1068;Recife;Florianópolis
+PUC1069;Recife;Fortaleza
+PUC1070;Recife;Porto Alegre
+PUC1071;Recife;Rio de Janeiro
+PUC1072;Recife;São Paulo
+PUC1073;Rio de Janeiro;Belo Horizonte
+PUC1074;Rio de Janeiro;Brasília
+PUC1075;Rio de Janeiro;Campo Grande
+PUC1076;Rio de Janeiro;Fernando de Noronha
+PUC1077;Rio de Janeiro;Florianópolis
+PUC1078;Rio de Janeiro;Fortaleza
+PUC1079;Rio de Janeiro;Porto Alegre
+PUC1080;Rio de Janeiro;Recife
+PUC1081;Rio de Janeiro;São Paulo
+PUC1082;São Paulo;Belo Horizonte
+PUC1083;São Paulo;Brasília
+PUC1084;São Paulo;Campo Grande
+PUC1085;São Paulo;Fernando de Noronha
+PUC1086;São Paulo;Florianópolis
+PUC1087;São Paulo;Fortaleza
+PUC1088;São Paulo;Porto Alegre
+PUC1089;São Paulo;Recife
+PUC1090;São Paulo;Rio de Janeiro

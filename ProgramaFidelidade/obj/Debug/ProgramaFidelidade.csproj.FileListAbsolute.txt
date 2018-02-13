@@ -1,0 +1,183 @@
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\Usuario\Documents\PUC - SISTEMAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+E:\SISTEMAS\PUC - SISTEMAS\SEGUNDO PERIODO\POO\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\17-11-23_FIDELIDADE_LARISSA\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\drive-download-20171126T210752Z-001\17-11-23_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\966779\Downloads\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\1069218\Documents\Visual Studio 2015\Projects\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\17-11-26_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\966779\Downloads\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio12meses.resources
+C:\Users\Arthur Mapa\Documents\Visual Studio 2017\Projects\17-11-27_FIDELIDADE_LUCAS\17-11-26_FIDELIDADE_LUCAS\17-11-23_FIDELIDADE_LUCAS\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio24meses.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio12meses.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio24meses.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\966779\Downloads\Arthur - 28-11ProgramaFidelidade\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio12meses.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio24meses.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\966779\Downloads\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe.config
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\bin\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csprojResolveAssemblyReference.cache
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.ComprarVoo.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuEscolhas.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.MenuInicial.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio12meses.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Relatorio24meses.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.TelaInicial.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.Properties.Resources.resources
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.GenerateResource.Cache
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.csproj.CoreCompileInputs.cache
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.exe
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.pdb
+C:\Users\lrfra\Desktop\ProgramaFidelidade_20-55_larissa\ProgramaFidelidade\ProgramaFidelidade\obj\Debug\ProgramaFidelidade.CadastroCliente.resources
